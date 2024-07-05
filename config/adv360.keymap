@@ -37,7 +37,7 @@
         &kp TAB   &kp Q     &kp W    &kp E    &kp R      &kp T  &macro_tab                                                            &macro_tab &kp Y  &kp U  &kp I     &kp O    &kp P    &kp MINUS
         &kp ESC   &kp A     &kp S    &kp D    &kp F      &kp G  &macro_context           &kp LGUI &kp LCTRL &kp RCTRL  &kp RGUI           &macro_raycast &kp H  &kp J  &kp K     &kp L    &kp SEMI &kp SQT
         &kp LSHFT &kp Z     &kp X    &kp C    &kp V      &kp B                            &kp LALT &kp RALT                            &kp N  &kp M  &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
-        &mo 1     &kp GRAVE &kp PIPE &kp LEFT &kp RIGHT                &kp SPACE &kp BSPC &kp LGUI &kp RI &kp DEL &kp ENTER                &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 1
+        &mo 1     &kp GRAVE &kp PIPE &kp LEFT &kp RIGHT                &kp SPACE &kp BSPC &kp LGUI &kp RGUI &kp DEL &kp ENTER                &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 1
       >;
     };
     lower {
