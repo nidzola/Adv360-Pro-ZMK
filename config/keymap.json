@@ -17,7 +17,7 @@
       "&mo 1     ", "&kp GRAVE ", "&kp PIPE ", "&kp LEFT ", "&kp RIGHT                   ", "&kp SPACE  ", "&kp LGUI   ", "&mo 1  ", "&mo 2 ", "&kp BSPC ", "&kp ENTER                    ", "&kp UP ", "&kp DWN  ", "&kp LBKT ", "&kp RBKT ", "&mo 1"
     ], [
       "&kp EQUAL ", "&kp F1    ", "&kp F1   ", "&kp F3   ", "&kp F4     ", "&kp F5 ", "&kp F6                                                                          ", "&kp F7 ", "&kp F8 ", "&kp F9 ", "&kp F10 ", "&kp F11 ", "&kp F12 ", "&kp BSPC",
-      "&kp TAB   ", "&none", "&none", "&none", "&none", "&kp LBKT  ", "&none                                                                           ", "&none  ", "&kp RBKT  ", "&none", "&none", "&none", "&none", "&kp UNDER",
+      "&kp TAB   ", "&none", "&none", "&none", "&kp LBKT", "&kp LBKT  ", "&none                                                                           ", "&none  ", "&kp RBKT  ", "&kp RBKT", "&none", "&none", "&none", "&kp UNDER",
       "&kp ESC   ", "&kp EXCL     ", "&kp AT    ", "&kp HASH    ", "&kp DLLR      ", "&kp PRCNT  ", "&none  ", "&trans", "&trans", "&trans", "&trans", "&none  ", "&kp CARET  ", "&kp AMPS  ", "&kp STAR    ", "&kp LPAR     ", "&kp RPAR     ", "&kp DQT",
       "&kp LSHFT ", "&none", "&none    ", "&none", "&none      ", "&none        ",                            "&trans", "&trans"                                   , "&none", "&kp PIPE  ", "&kp PIPE    ", "&kp GT     ", "&kp BLSH", "&none",
       "&none     ", "&kp GRAVE ", "&trans ", "&kp LEFT ", "&kp RIGHT                   ", "&trans", "&trans", "&trans", "&trans", "&trans", "trans",                "&kp UP     ", "&kp DOWN     ", "&kp LBRC    ", "&kp RBRC        ", "&none"
