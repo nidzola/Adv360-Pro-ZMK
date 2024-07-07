@@ -39,7 +39,7 @@
         &kp LSHFT &kp Z     &kp X    &kp C    &kp V      &kp B                            &kp HOME &kp PG_UP                            &kp N  &kp M  &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
         &mo 1     &kp GRAVE &kp PIPE &kp LEFT &kp RIGHT                &kp SPACE &kp LGUI &mo 1 &mo 2 &kp BSPC &kp ENTER                &kp UP &kp DOWN  &kp LBKT &kp RBKT &mo 1
       >;
-    }uppaer;
+    };
     lower {
       bindings = <
         &kp EQUAL &kp F1    &kp F2   &kp F3   &kp F4     &kp F5 &kp F6                                                           &kp F7 &kp F8 &kp F9 &kp F10 &kp F11 &kp F12 &kp BSPC
